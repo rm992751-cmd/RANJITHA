@@ -1,0 +1,8 @@
+Python 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+= RESTART: C:/Users/JET3/AppData/Local/Programs/Python/Python314/port scanner (Basic security Check).py
+Enter IP address:192.168.1.76
+Enter port number:80
+ Port80is CLOSED on192.168.1.76
+
