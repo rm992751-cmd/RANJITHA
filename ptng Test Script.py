@@ -1,7 +1,6 @@
-import os
-host=input("Enterhost to ping:")
-response=os.system(f"ping-c2{host}")
-if response==0:
-   print("Host is rechable")
-else:
-    print("Host is not reachable")
+Python 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+= RESTART: C:/Users/JET3/AppData/Local/Programs/Python/Python314/ptng Test Script.py
+Enterhost to ping:IPV4
+Host is not reachable
